@@ -515,20 +515,18 @@ h1 {
 }
 .wraper {
   position: relative;
-  padding: 0px;
-  width: 370px;
-  height: 70px;
+
   display: inline-block;
 }
 .wraper p {
   position: absolute;
   color: var(--text-white);
-  padding: 10px;
+  padding: 30px;
   margin: 0;
   font-size: 14px;
   bottom: 0;
   background: rgba(47, 48, 58, 0.8);
-
+  width: 100%;
   font-weight: 700;
   line-height: 16px;
   text-align: center;
