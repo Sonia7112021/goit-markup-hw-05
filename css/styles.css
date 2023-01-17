@@ -515,7 +515,7 @@ h1 {
 }
 .wraper {
   position: relative;
-
+  vertical-align: bottom;
   display: inline-block;
 }
 .wraper p {
