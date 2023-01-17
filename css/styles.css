@@ -515,7 +515,7 @@ h1 {
 }
 .wraper {
   position: relative;
-  vertical-align: bottom;
+
   display: inline-block;
 }
 .wraper p {
@@ -531,4 +531,7 @@ h1 {
   line-height: 16px;
   text-align: center;
   text-transform: uppercase;
+}
+.wraper img {
+  vertical-align: bottom;
 }
