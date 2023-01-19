@@ -555,6 +555,7 @@ h1 {
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
   position: relative;
+  transition: 250ms ease;
 }
 .close-btn {
   position: absolute;
@@ -565,6 +566,7 @@ h1 {
   height: 30px;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-sizing: border-box;
+  border-radius: 50%;
 }
 .is-hidden {
   visibility: hidden;
